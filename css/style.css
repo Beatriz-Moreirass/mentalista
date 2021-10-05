@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    background-image: url("../image/fundo.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.titulo{
+    font-size: 40px;
+    margin:10px
+}
